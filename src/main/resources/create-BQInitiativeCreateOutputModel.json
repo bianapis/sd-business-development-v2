@@ -1,0 +1,32 @@
+{
+  "initiativeInstanceStatus" : "initiativeInstanceStatus",
+  "bQInitiativeInstanceRecord" : {
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "correspondenceInstanceReference" : "752768",
+    "businessDevelopmentInitiativeSchedule" : "businessDevelopmentInitiativeSchedule",
+    "businessDevelopmentInitiativeType" : "businessDevelopmentInitiativeType",
+    "businessDevelopmentInitiativeBusinessUnitReference" : "741533",
+    "businessDevelopmentInitiativeDescription" : "businessDevelopmentInitiativeDescription",
+    "documentDirectoryEntryInstanceReference" : "797375",
+    "businessDevelopmentInitiativeWorkProducts" : "businessDevelopmentInitiativeWorkProducts",
+    "businessDevelopmentInitiativeResult" : "businessDevelopmentInitiativeResult"
+  },
+  "initiativeInitiateActionRecord" : {},
+  "initiativeInstanceReference" : "IIR729090",
+  "businessDevelopmentStrategyInstanceRecord" : {
+    "businessDevelopmentStrategyPoliciesAndGuidelines" : "businessDevelopmentStrategyPoliciesAndGuidelines",
+    "businessDevelopmentStrategyPeriod" : "businessDevelopmentStrategyPeriod",
+    "businessDevelopmentStrategySchedule" : "businessDevelopmentStrategySchedule",
+    "businessDevelopmentGoalRecord" : {
+      "businessDevelopmentGoalType" : "businessDevelopmentGoalType",
+      "businessDevelopmentGoalDefinition" : "businessDevelopmentGoalDefinition",
+      "businessDevelopmentGoalOrganization" : "businessDevelopmentGoalOrganization",
+      "businessDevelopmentGoalResult" : "businessDevelopmentGoalResult"
+    },
+    "businessDevelopmentStrategyBudget" : "businessDevelopmentStrategyBudget",
+    "businessDevelopmentStrategyOrganization" : "businessDevelopmentStrategyOrganization"
+  },
+  "initiativeInitiateActionReference" : "IIAR717852"
+}

@@ -1,0 +1,19 @@
+{
+  "requestRecordReference" : "RRR763221",
+  "businessDevelopmentStrategyInstanceRecord" : {
+    "businessDevelopmentStrategyPoliciesAndGuidelines" : "businessDevelopmentStrategyPoliciesAndGuidelines",
+    "businessDevelopmentStrategyPeriod" : "businessDevelopmentStrategyPeriod",
+    "businessDevelopmentStrategySchedule" : "businessDevelopmentStrategySchedule",
+    "businessDevelopmentGoalRecord" : {
+      "businessDevelopmentGoalType" : "businessDevelopmentGoalType",
+      "businessDevelopmentGoalDefinition" : "businessDevelopmentGoalDefinition",
+      "businessDevelopmentGoalOrganization" : "businessDevelopmentGoalOrganization",
+      "businessDevelopmentGoalResult" : "businessDevelopmentGoalResult"
+    },
+    "businessDevelopmentStrategyBudget" : "businessDevelopmentStrategyBudget",
+    "businessDevelopmentStrategyOrganization" : "businessDevelopmentStrategyOrganization"
+  },
+  "businessDevelopmentStrategyRequestActionTaskReference" : "BDSRATR787299",
+  "requestResponseRecord" : {},
+  "businessDevelopmentStrategyRequestActionTaskRecord" : {}
+}

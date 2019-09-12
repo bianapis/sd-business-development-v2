@@ -1,0 +1,18 @@
+{
+  "businessDevelopmentStrategyUpdateActionTaskReference" : "BDSUATR719268",
+  "updateResponseRecord" : {},
+  "businessDevelopmentStrategyInstanceRecord" : {
+    "businessDevelopmentStrategyPoliciesAndGuidelines" : "businessDevelopmentStrategyPoliciesAndGuidelines",
+    "businessDevelopmentStrategyPeriod" : "businessDevelopmentStrategyPeriod",
+    "businessDevelopmentStrategySchedule" : "businessDevelopmentStrategySchedule",
+    "businessDevelopmentGoalRecord" : {
+      "businessDevelopmentGoalType" : "businessDevelopmentGoalType",
+      "businessDevelopmentGoalDefinition" : "businessDevelopmentGoalDefinition",
+      "businessDevelopmentGoalOrganization" : "businessDevelopmentGoalOrganization",
+      "businessDevelopmentGoalResult" : "businessDevelopmentGoalResult"
+    },
+    "businessDevelopmentStrategyBudget" : "businessDevelopmentStrategyBudget",
+    "businessDevelopmentStrategyOrganization" : "businessDevelopmentStrategyOrganization"
+  },
+  "businessDevelopmentStrategyUpdateActionTaskRecord" : {}
+}

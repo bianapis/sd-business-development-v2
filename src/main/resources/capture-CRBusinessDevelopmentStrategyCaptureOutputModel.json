@@ -1,0 +1,17 @@
+{
+  "businessDevelopmentStrategyCaptureActionTaskReference" : "BDSCATR782638",
+  "businessDevelopmentStrategyInstanceRecord" : {
+    "businessDevelopmentStrategySchedule" : "businessDevelopmentStrategySchedule",
+    "businessDevelopmentGoalRecord" : {
+      "businessDevelopmentGoalType" : "businessDevelopmentGoalType",
+      "businessDevelopmentGoalDefinition" : "businessDevelopmentGoalDefinition",
+      "businessDevelopmentGoalOrganization" : "businessDevelopmentGoalOrganization",
+      "businessDevelopmentGoalResult" : "businessDevelopmentGoalResult"
+    },
+    "businessDevelopmentStrategyBudget" : "businessDevelopmentStrategyBudget",
+    "businessDevelopmentStrategyOrganization" : "businessDevelopmentStrategyOrganization"
+  },
+  "businessDevelopmentStrategyCaptureActionTaskRecord" : {},
+  "captureResponseRecord" : {},
+  "captureRecordReference" : "CRR708902"
+}

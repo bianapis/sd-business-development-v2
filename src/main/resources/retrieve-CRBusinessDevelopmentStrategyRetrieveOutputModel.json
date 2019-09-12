@@ -1,0 +1,28 @@
+{
+  "businessDevelopmentStrategyRetrieveActionTaskReference" : "BDSRATR705361",
+  "businessDevelopmentStrategyInstanceAnalysis" : {
+    "businessDevelopmentStrategyInstanceAnalysisReportType" : "businessDevelopmentStrategyInstanceAnalysisReportType",
+    "businessDevelopmentStrategyInstanceAnalysisData" : "businessDevelopmentStrategyInstanceAnalysisData",
+    "businessDevelopmentStrategyInstanceAnalysisReport" : {}
+  },
+  "businessDevelopmentStrategyRetrieveActionTaskRecord" : {},
+  "businessDevelopmentStrategyRetrieveActionResponse" : "businessDevelopmentStrategyRetrieveActionResponse",
+  "businessDevelopmentStrategyInstanceRecord" : {
+    "businessDevelopmentStrategyPoliciesAndGuidelines" : "businessDevelopmentStrategyPoliciesAndGuidelines",
+    "businessDevelopmentStrategyPeriod" : "businessDevelopmentStrategyPeriod",
+    "businessDevelopmentStrategySchedule" : "businessDevelopmentStrategySchedule",
+    "businessDevelopmentGoalRecord" : {
+      "businessDevelopmentGoalType" : "businessDevelopmentGoalType",
+      "businessDevelopmentGoalDefinition" : "businessDevelopmentGoalDefinition",
+      "businessDevelopmentGoalOrganization" : "businessDevelopmentGoalOrganization",
+      "businessDevelopmentGoalResult" : "businessDevelopmentGoalResult"
+    },
+    "businessDevelopmentStrategyBudget" : "businessDevelopmentStrategyBudget",
+    "businessDevelopmentStrategyOrganization" : "businessDevelopmentStrategyOrganization"
+  },
+  "businessDevelopmentStrategyInstanceReportRecord" : {
+    "businessDevelopmentStrategyInstanceReportData" : "businessDevelopmentStrategyInstanceReportData",
+    "businessDevelopmentStrategyInstanceReport" : {},
+    "businessDevelopmentStrategyInstanceReportType" : "businessDevelopmentStrategyInstanceReportType"
+  }
+}

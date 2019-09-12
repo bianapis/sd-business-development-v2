@@ -1,0 +1,18 @@
+{
+  "bQInitiativeInstanceRecord" : {
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "correspondenceInstanceReference" : "757788",
+    "businessDevelopmentInitiativeSchedule" : "businessDevelopmentInitiativeSchedule",
+    "businessDevelopmentInitiativeType" : "businessDevelopmentInitiativeType",
+    "businessDevelopmentInitiativeBusinessUnitReference" : "724936",
+    "businessDevelopmentInitiativeDescription" : "businessDevelopmentInitiativeDescription",
+    "documentDirectoryEntryInstanceReference" : "739822",
+    "businessDevelopmentInitiativeWorkProducts" : "businessDevelopmentInitiativeWorkProducts",
+    "businessDevelopmentInitiativeResult" : "businessDevelopmentInitiativeResult"
+  },
+  "initiativeUpdateActionTaskReference" : "IUATR790440",
+  "initiativeUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {}
+}

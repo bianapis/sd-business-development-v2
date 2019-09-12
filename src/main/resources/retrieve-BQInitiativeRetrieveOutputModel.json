@@ -1,0 +1,30 @@
+{
+  "initiativeRetrieveActionTaskReference" : "IRATR732419",
+  "initiativeInstanceAnalysis" : {
+    "initiativeInstanceAnalysisRecord" : {},
+    "initiativeInstanceAnalysisReport" : {},
+    "initiativeInstanceAnalysisReportType" : "initiativeInstanceAnalysisReportType",
+    "initiativeInstanceAnalysisParameters" : "initiativeInstanceAnalysisParameters"
+  },
+  "bQInitiativeInstanceRecord" : {
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "correspondenceInstanceReference" : "747443",
+    "businessDevelopmentInitiativeSchedule" : "businessDevelopmentInitiativeSchedule",
+    "businessDevelopmentInitiativeType" : "businessDevelopmentInitiativeType",
+    "businessDevelopmentInitiativeBusinessUnitReference" : "797430",
+    "businessDevelopmentInitiativeDescription" : "businessDevelopmentInitiativeDescription",
+    "documentDirectoryEntryInstanceReference" : "732643",
+    "businessDevelopmentInitiativeWorkProducts" : "businessDevelopmentInitiativeWorkProducts",
+    "businessDevelopmentInitiativeResult" : "businessDevelopmentInitiativeResult"
+  },
+  "initiativeInstanceReport" : {
+    "initiativeInstanceReportParameters" : "initiativeInstanceReportParameters",
+    "initiativeInstanceReportType" : "initiativeInstanceReportType",
+    "initiativeInstanceReport" : {},
+    "initiativeInstanceReportRecord" : {}
+  },
+  "initiativeRetrieveActionTaskRecord" : {},
+  "initiativeRetrieveActionResponse" : "initiativeRetrieveActionResponse"
+}
